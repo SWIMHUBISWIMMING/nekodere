@@ -8,6 +8,7 @@
 
 nekodere is a free universal script for mutiple games.
 designed to work with [Electron v3](https://nocap.land)'s earliest release. 
+
 (cause it's shit af)
 
 ### loadstring
