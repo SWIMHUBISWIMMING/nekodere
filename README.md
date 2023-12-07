@@ -13,7 +13,7 @@ designed to work with [Electron v3](https://nocap.land)'s earliest release.
 
 ## loadstring
 ```lua
-local a,b,c,d="nekodere/","SWIMHUBISWIMMING/","https://github.com/","main/main.lua";loadstring(game:HttpGet(c..b..a..d))()
+local a,b,c,d="nekodere/","SWIMHUBISWIMMING/","https://raw.githubusercontent.com/","main/main.lua";loadstring(game:HttpGet(c..b..a..d))()
 
 ```
 
