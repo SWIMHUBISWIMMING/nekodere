@@ -17,6 +17,6 @@ local a,b,c,d="nekodere/","SWIMHUBISWIMMING/","https://github.com/","main/main.l
 
 ```
 
-### made with ❤ by [s.wm @ discord.com](https://discord.com//-/users/716514203137081376) / [admin @ protogen.gay](mailto:admin@protogen) / [swim @ v3rm.net](https://v3rm.net/members/swim.5416)
+### made with ❤ by [s.wm @ discord.com](https://discord.com/users/716514203137081376) / [admin @ protogen.gay](mailto:admin@protogen) / [swim @ v3rm.net](https://v3rm.net/members/swim.5416)
 
 </div>
